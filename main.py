@@ -20,3 +20,7 @@ def funcao_aruak():
 
 def funcao_erichsen():
     print("Essa é a função do Ian Erichsen")
+
+
+# chamei a funcao
+funcao_aruak()
