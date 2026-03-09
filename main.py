@@ -1,8 +1,5 @@
 print("Hello World")
 print("Hello World")
 print("Hello World")
-print("aruak")
-
-
-
-print("alo aruak")
+print("aaaaa")
+print("aa")
