@@ -24,3 +24,6 @@ def funcao_erichsen():
 
 # chamei a funcao
 funcao_aruak()
+
+#Chamei a função do mais bonito da sala
+funcao_erichsen()
