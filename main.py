@@ -13,3 +13,7 @@ print("asas")
 print("aaaaa")
 print("aa")
 
+
+
+def funcao_aruak():
+    print("essa é a funcao do aruak")
