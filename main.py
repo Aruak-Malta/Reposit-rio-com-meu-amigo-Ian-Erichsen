@@ -23,8 +23,6 @@ def funcao_erichsen():
 
 
 
-<<<<<<< Updated upstream
+
 print("vai se fuder gustavo")
-=======
-print("vai tomar no cu gustavo")
->>>>>>> Stashed changes
+
