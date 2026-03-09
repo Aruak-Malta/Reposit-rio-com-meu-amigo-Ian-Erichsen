@@ -16,4 +16,7 @@ print("aa")
 
 
 def funcao_aruak():
-    print("essa é a funcao do aruak")
+    print("essa é a funcao do Aruak")
+
+def funcao_erichsen():
+    print("Essa é a função do Ian Erichsen")
