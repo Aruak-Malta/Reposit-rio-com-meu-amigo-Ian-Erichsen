@@ -6,3 +6,4 @@ print("aruak")
 
 
 print("alo aruak")
+print("asas")
